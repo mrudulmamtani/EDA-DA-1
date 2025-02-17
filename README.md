@@ -37,9 +37,8 @@ The primary objectives of this analysis are:
 
 ## Repository Structure
 
-- `Data/`: Contains the `smoking.csv` dataset.
-- `Notebooks/`: Jupyter notebooks with detailed analysis and visualizations.
-- `Scripts/`: Python scripts used for data processing and analysis.
+- `data.csv`: Contains the `smoking.csv` dataset.
+- `Mrudul Mamtani,ipynb`: Jupyter notebooks with detailed analysis and visualizations.
 - `README.md`: This file, providing an overview of the project.
 
 ## Getting Started
@@ -48,7 +47,7 @@ To replicate the analysis:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/salemprakash/EDA.git
+   git clone https://github.com/mrudulmamtani/EDA-DA-1.git
    cd EDA
    ```
 
